@@ -12,7 +12,7 @@
 
 </head>
 <body>
-<h1>My Google Map</h1>
+<h1>This is your google map</h1>
 <div id="map"></div>
 <script>
 
